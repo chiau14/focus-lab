@@ -3,7 +3,7 @@
 結合「番茄鐘」、「任務管理」、「每日心得」與「進度報告」的單頁 Web App。
 本作品以 Vibe Coding 方式完成：先與 AI 討論出規格書，再請 AI 實作，經過多輪實際操作與修改後定稿。
 
-🔗 **網站連結：** https://你的帳號.github.io/focus-lab/
+🔗 **網站連結：** [https://你的帳號.github.io/focus-lab/](https://chiau14.github.io/focus-lab/)
 
 ---
 
